@@ -350,6 +350,9 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 
+# Nuke working folder
+.nuke/temp/
+
 # Download folder for downloading SDL2 development libraries
 downloads/
 
@@ -358,3 +361,4 @@ builds/
 
 # Staging folder for building NuGet packages of SDL2 development libraries
 staging/
+

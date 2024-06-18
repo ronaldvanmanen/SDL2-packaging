@@ -2,10 +2,10 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "gitversion.tool": {
-      "version": "5.10.3",
+    "nuke.globaltool": {
+      "version": "7.0.6",
       "commands": [
-        "dotnet-gitversion"
+        "nuke"
       ]
     }
   }
